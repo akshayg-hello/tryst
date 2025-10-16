@@ -24,8 +24,3 @@ hs_err_pid*
 replay_pid*
 
 .idea
-# ignore files from profile-manager
-profile-manager/.mvn/
-profile-manager/.gitattributes
-profile-manager/.gitignore
-profile-manager/mvnw*
